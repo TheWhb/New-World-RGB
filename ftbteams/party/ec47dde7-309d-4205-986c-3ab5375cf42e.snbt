@@ -1,0 +1,22 @@
+{
+	id: "ec47dde7-309d-4205-986c-3ab5375cf42e"
+	type: "party"
+	owner: "ed24f69c-1cc0-444b-b306-6049aa0580e7"
+	ranks: {
+		ed24f69c-1cc0-444b-b306-6049aa0580e7: "owner"
+		7037a4af-54de-4d88-822f-0708b359853e: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "RGB"
+		"ftbteams:description": "RGB"
+		"ftbteams:color": "#FF59CF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1716612048171L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TheRikei\"}]}" }
+		{ from: "ed24f69c-1cc0-444b-b306-6049aa0580e7", date: 1716612048174L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"LeoxDa\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1716612050722L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"LeoxDa\"}]}" }
+	]
+	extra: { }
+}

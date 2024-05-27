@@ -1,0 +1,15 @@
+{
+	id: "7037a4af-54de-4d88-822f-0708b359853e"
+	type: "player"
+	player_name: "LeoxDa"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "LeoxDa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

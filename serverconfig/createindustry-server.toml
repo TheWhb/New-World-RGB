@@ -1,0 +1,33 @@
+
+#.
+#Fine tune the kinetic stats of individual components
+[stressValues]
+
+	#.
+	#.
+	#[in Stress Units]
+	#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives
+	[stressValues.impact]
+		steel_mechanical_pump = 4.0
+		aluminum_flywheel = 0.0
+		aluminum_mechanical_pump = 4.0
+		cast_iron_mechanical_pump = 4.0
+		brass_mechanical_pump = 4.0
+		steel_flywheel = 0.0
+		plastic_mechanical_pump = 4.0
+		machine_input = 4.0
+		cast_iron_flywheel = 0.0
+
+	#.
+	#[in Stress Units]
+	#Configure how much stress a source can accommodate for.
+	[stressValues.capacity]
+		low_grade_fuel_engine = 10.0
+		turbine_engine = 66.0
+		radial_engine = 70.0
+		compact_engine = 20.0
+		diesel_engine = 16.0
+		large_radial_engine = 93.0
+		gasoline_engine = 66.0
+		lpg_engine = 66.0
+

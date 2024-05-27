@@ -1,0 +1,15 @@
+{
+	id: "ed24f69c-1cc0-444b-b306-6049aa0580e7"
+	type: "player"
+	player_name: "TheRikei"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "TheRikei"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E059FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

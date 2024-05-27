@@ -1,0 +1,1087 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-05-23 14:29:15 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-05-23 14:27:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-05-23 14:26:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-05-22 23:33:18 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:18:02 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-05-23 14:28:08 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_step_stool": {
+    "criteria": {
+      "crimson_step_stool": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "extradelight:start": {
+    "criteria": {
+      "start": "2024-05-22 23:33:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-05-23 14:29:15 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_step_stool": {
+    "criteria": {
+      "oak_step_stool": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/egg_in_the_basket": {
+    "criteria": {
+      "egg_basket": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-05-23 14:19:41 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:23:54 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/joshua_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/crabbersdelight/crab_trap": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-05-23 14:29:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:23:54 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2024-05-23 14:13:56 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/maple_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-05-22 23:33:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-05-23 14:15:32 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2024-05-22 23:33:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_step_stool": {
+    "criteria": {
+      "spruce_step_stool": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/decorations/crab_trap": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500",
+      "has_the_recipe": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/willow_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2024-05-23 14:14:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-05-23 14:18:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/kapok_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_step_stool": {
+    "criteria": {
+      "jungle_step_stool": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-05-23 14:13:56 -0500"
+    },
+    "done": true
+  },
+  "goodending:recipes/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/christmas_pudding_feast": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/coffe_cake_feast": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-05-23 14:14:15 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/jerky": {
+    "criteria": {
+      "has_meat": "2024-05-23 14:18:02 -0500"
+    },
+    "done": true
+  },
+  "create_dd:root": {
+    "criteria": {
+      "0": "2024-05-22 23:33:18 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-05-22 23:32:31 -0500"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jelly_bottle": {
+    "criteria": {
+      "has_sweet_fruit": "2024-05-23 14:17:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/blackwood_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/drying_rack": {
+    "criteria": {
+      "has_string": "2024-05-23 14:29:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-05-23 14:28:30 -0500",
+      "bread": "2024-05-23 14:14:55 -0500"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/ru_main/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/farmersdelight/roast_chicken": {
+    "criteria": {
+      "roast_chicken": "2024-05-23 14:18:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/magnolia_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/larch_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/lattice": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "decoration_delight:decoration_101_advancement": {
+    "criteria": {
+      "decoration_101_advancement": "2024-05-22 23:32:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-05-23 14:29:15 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/palm_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/acacia_step_stool": {
+    "criteria": {
+      "acacia_step_stool": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2024-05-23 14:13:56 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2024-05-23 14:15:32 -0500"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/tools/slicer": {
+    "criteria": {
+      "has_tool": "2024-05-23 14:18:51 -0500"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2024-05-23 14:17:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-05-23 14:14:55 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2024-05-23 14:14:16 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:23:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-05-23 14:13:56 -0500"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_milk": {
+    "criteria": {
+      "has_nuts": "2024-05-23 14:14:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-05-23 14:26:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-05-23 14:19:41 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/bratwurst_bread_bc": {
+    "criteria": {
+      "book": "2024-05-23 14:14:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-05-23 14:19:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-05-23 14:19:41 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/dead_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2024-05-22 23:32:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-05-23 14:29:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_boots": "2024-05-23 14:14:39 -0500"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-05-22 23:32:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-05-23 14:18:02 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2024-05-23 14:19:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-05-23 14:19:41 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-05-23 14:26:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-05-23 14:21:40 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/oven": {
+    "criteria": {
+      "Recipes": "2024-05-23 14:26:58 -0500"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-05-22 23:32:31 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-05-23 14:15:47 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2024-05-22 23:33:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-05-23 14:14:39 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-05-22 23:32:32 -0500"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-05-22 23:33:18 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-05-23 14:23:54 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2024-05-23 14:15:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2024-05-23 14:34:57 -0500",
+      "minecraft:stony_peaks": "2024-05-23 14:36:39 -0500",
+      "minecraft:river": "2024-05-23 14:21:13 -0500",
+      "minecraft:forest": "2024-05-22 23:32:32 -0500",
+      "minecraft:deep_dark": "2024-05-23 14:37:53 -0500",
+      "minecraft:savanna": "2024-05-23 14:19:18 -0500",
+      "minecraft:plains": "2024-05-23 14:23:45 -0500"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_sheet": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-05-23 14:13:56 -0500"
+    },
+    "done": true
+  },
+  "extradelight:food": {
+    "criteria": {
+      "food": "2024-05-23 14:14:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/omelette_mix_meat": {
+    "criteria": {
+      "Recipes": "2024-05-23 14:18:02 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-05-23 14:14:27 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-05-22 23:33:18 -0500",
+      "inv_changed-diamond": "2024-05-22 23:33:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-05-23 14:29:29 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/warped_step_stool": {
+    "criteria": {
+      "warped_step_stool": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/socotra_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-05-23 14:18:01 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/beef_wellington_block_item": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-05-23 14:25:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-05-23 14:19:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-05-22 23:33:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-05-23 14:19:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-05-23 14:27:05 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_step_stool": {
+    "criteria": {
+      "mangrove_step_stool": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/wooden_shield": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-05-23 14:29:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_step_stool": {
+    "criteria": {
+      "dark_oak_step_stool": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/food/cake": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/cinnamon_step_stool": {
+    "criteria": {
+      "cinnamon_step_stool": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-05-23 14:21:40 -0500",
+      "minecraft:zombie": "2024-05-23 14:28:07 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:28:08 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/omelette_mix_meat_cheese": {
+    "criteria": {
+      "Recipes": "2024-05-23 14:18:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-05-23 14:23:54 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/haggis_block_item": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-05-23 14:18:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/egg_to_block": {
+    "criteria": {
+      "Recipes": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/mint_lamb_feast": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2024-05-23 14:14:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "goodending:recipes/muddy_oak_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_cushion": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-05-22 23:33:18 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/rack_lamb_block_item": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-05-22 23:32:31 -0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-05-22 23:33:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-05-23 14:23:54 -0500"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/cooking/tea_curry": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-23 14:18:02 -0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/mauve_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-05-23 14:18:09 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-05-23 14:25:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-05-23 14:18:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-05-23 14:21:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-05-23 14:33:43 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/birch_step_stool": {
+    "criteria": {
+      "birch_step_stool": "2024-05-23 14:14:22 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
