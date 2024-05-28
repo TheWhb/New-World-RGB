@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/ochrum_castel_tile_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_2": {
     "criteria": {
       "has_oak_plank": "2024-05-22 23:25:59 -0500"
@@ -125,6 +131,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-05-25 00:11:13 -0500"
@@ -134,6 +146,12 @@
   "create:recipes/create.base/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2024-05-25 03:30:07 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
     },
     "done": true
   },
@@ -233,9 +251,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-05-27 23:16:48 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/industrial_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-05-25 00:11:13 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
     },
     "done": true
   },
@@ -395,6 +425,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/brewing/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-05-27 23:15:48 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2024-05-24 23:41:08 -0500"
@@ -425,9 +461,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-05-22 23:46:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -575,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/tuff_castel_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-05-25 01:15:03 -0500"
@@ -614,6 +668,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-05-25 03:30:02 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
     },
     "done": true
   },
@@ -680,6 +740,12 @@
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2024-05-22 23:26:05 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -803,9 +869,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-05-27 22:41:07 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-05-24 23:58:48 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -818,6 +896,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-05-26 23:19:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-05-28 00:02:01 -0500"
     },
     "done": true
   },
@@ -842,6 +926,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-05-22 23:25:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-05-28 00:20:40 -0500"
     },
     "done": true
   },
@@ -899,9 +989,27 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
     "criteria": {
       "has_item": "2024-05-22 23:42:35 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -920,6 +1028,12 @@
   "design_decor:recipes/design_decor/andesite_castel_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-05-25 00:25:18 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -1055,6 +1169,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-05-25 00:36:56 -0500"
@@ -1118,6 +1238,12 @@
   "extradelight:recipes/extradelight.items/christmas_pudding_feast": {
     "criteria": {
       "has_any_ingredient": "2024-05-24 23:55:39 -0500"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/granite_castel_tiles_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -1301,6 +1427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/mangrove_molded_purple_wallpaper": {
     "criteria": {
       "purple_mangrove_wallpaper": "2024-05-22 23:37:37 -0500"
@@ -1316,6 +1448,18 @@
   "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-05-25 03:30:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/smoked_bat_wing": {
+    "criteria": {
+      "has_bat_wing": "2024-05-28 00:03:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
     },
     "done": true
   },
@@ -1352,6 +1496,12 @@
   "extendedgears:recipes/extendedgears/crafting/large_half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2024-05-24 23:41:08 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -1406,6 +1556,12 @@
   "handcrafted:recipes/misc/yellow_cup": {
     "criteria": {
       "has_terracotta": "2024-05-25 00:13:01 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/apple_to_block": {
+    "criteria": {
+      "Recipes": "2024-05-27 23:15:48 -0500"
     },
     "done": true
   },
@@ -1601,6 +1757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-05-28 00:02:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-05-24 23:49:48 -0500"
@@ -1644,6 +1806,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-05-27 23:03:37 -0500"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-05-25 01:15:03 -0500"
@@ -1659,6 +1827,12 @@
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2024-05-24 23:41:08 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_gold_block": "2024-05-28 00:20:40 -0500"
     },
     "done": true
   },
@@ -1770,6 +1944,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/gray_painted_planks": {
     "criteria": {
       "has_planks": "2024-05-22 23:25:59 -0500"
@@ -1836,6 +2016,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/farmersdelight/apple_pie": {
+    "criteria": {
+      "apple_pie": "2024-05-27 23:15:48 -0500"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/controller": {
     "criteria": {
       "has_base_tier_wooden_storage": "2024-05-25 04:21:02 -0500"
@@ -1851,6 +2037,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-05-25 00:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-05-27 23:03:24 -0500"
     },
     "done": true
   },
@@ -1944,6 +2136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/willow_boat": {
     "criteria": {
       "in_water": "2024-05-22 23:35:35 -0500"
@@ -1983,6 +2181,12 @@
   "extradelight:recipes/extradelight.aesthetic/crimson_molded_cyan_wallpaper": {
     "criteria": {
       "cyan_crimson_wallpaper": "2024-05-22 23:37:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
     },
     "done": true
   },
@@ -2198,9 +2402,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_trophy": "2024-05-25 02:32:24 -0500"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/ochrum_castel_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
     },
     "done": true
   },
@@ -2276,9 +2492,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/farmersdelight/apple_pie_jam": {
+    "criteria": {
+      "apple_pie": "2024-05-27 23:15:48 -0500"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-05-26 23:24:39 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -2390,6 +2618,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_gold_block": "2024-05-28 00:20:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-05-22 23:28:05 -0500"
@@ -2399,6 +2633,12 @@
   "create_connected:root": {
     "criteria": {
       "0": "2024-05-22 23:14:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
     },
     "done": true
   },
@@ -2531,6 +2771,18 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-05-22 23:46:53 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -2684,6 +2936,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/ochrum_castel_tiles_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-05-25 01:00:00 -0500"
@@ -2726,6 +2984,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-05-27 23:03:24 -0500"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/omelette_mix_mix": {
     "criteria": {
       "Recipes": "2024-05-25 04:30:22 -0500"
@@ -2747,6 +3011,12 @@
   "extradelight:recipes/extradelight.aesthetic/ribbon_bow_red": {
     "criteria": {
       "red_bow": "2024-05-24 23:55:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -2810,15 +3080,33 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/granite_castel_tile_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-05-22 23:14:00 -0500"
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/cinnamon_molded_gray_wallpaper": {
     "criteria": {
       "gray_cinnamon_wallpaper": "2024-05-22 23:37:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-05-27 23:15:58 -0500"
     },
     "done": true
   },
@@ -2834,6 +3122,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/granite_castel_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/birch_molded_red_wallpaper": {
     "criteria": {
       "red_birch_wallpaper": "2024-05-22 23:37:37 -0500"
@@ -2843,6 +3143,18 @@
   "sliceanddice:recipes/tools/sprinkler": {
     "criteria": {
       "has_pipe": "2024-05-25 05:19:26 -0500"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/granite_castel_tile_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
     },
     "done": true
   },
@@ -2906,6 +3218,12 @@
     },
     "done": false
   },
+  "extradelight:recipes/extradelight.items/offset_spatula_diamond": {
+    "criteria": {
+      "Recipes": "2024-05-28 00:07:13 -0500"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-05-25 03:32:02 -0500"
@@ -2924,9 +3242,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/fd/regions_unexplored/magnolia_cabinet": {
     "criteria": {
       "has_planks": "2024-05-25 03:07:53 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -2960,6 +3290,12 @@
     },
     "done": true
   },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2024-05-25 03:30:07 -0500"
@@ -2969,6 +3305,12 @@
   "regions_unexplored:recipes/ru_main/redstone_bud": {
     "criteria": {
       "has_redstone": "2024-05-25 01:00:00 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -3182,9 +3524,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-05-24 23:55:39 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -3260,6 +3614,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/granite_castel_tile_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-05-24 23:41:08 -0500"
@@ -3332,6 +3692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/miners_delight/smoked_bat_wing_smoking": {
+    "criteria": {
+      "has_bat_wing": "2024-05-28 00:03:42 -0500"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/omelette_mix_veg": {
     "criteria": {
       "Recipes": "2024-05-25 04:30:22 -0500"
@@ -3371,6 +3737,12 @@
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-05-22 23:26:03 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_backtank": {
+    "criteria": {
+      "has_item": "2024-05-27 23:06:25 -0500"
     },
     "done": true
   },
@@ -3543,6 +3915,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/ochrum_castel_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-05-24 23:58:48 -0500"
@@ -3552,6 +3930,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-05-22 23:25:59 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
     },
     "done": true
   },
@@ -3609,6 +3993,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_gold_block": "2024-05-28 00:20:40 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/diamond_spoon": {
+    "criteria": {
+      "Recipes": "2024-05-28 00:07:13 -0500"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/chipped/mason_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-05-25 03:32:02 -0500"
@@ -3618,6 +4014,12 @@
   "extradelight:recipes/extradelight.aesthetic/spruce_molded_red_wallpaper": {
     "criteria": {
       "red_spruce_wallpaper": "2024-05-22 23:37:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -3771,6 +4173,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-05-24 23:55:39 -0500"
@@ -3811,6 +4219,12 @@
     "criteria": {
       "0": "2024-05-25 04:13:55 -0500",
       "1": "2024-05-25 04:05:34 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
     },
     "done": true
   },
@@ -4054,6 +4468,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-05-25 00:59:14 -0500"
@@ -4063,6 +4483,12 @@
   "create:recipes/create.base/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2024-05-25 03:47:12 -0500"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/ochrum_castel_tile_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
     },
     "done": true
   },
@@ -4162,6 +4588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-05-27 23:15:58 -0500"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/larch_boat": {
     "criteria": {
       "in_water": "2024-05-22 23:35:35 -0500"
@@ -4216,6 +4648,12 @@
     },
     "done": true
   },
+  "create_dd:excavation_drill": {
+    "criteria": {
+      "0": "2024-05-27 23:06:11 -0500"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-05-25 03:32:02 -0500"
@@ -4267,6 +4705,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-05-25 04:30:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-05-27 23:59:25 -0500"
     },
     "done": true
   },
@@ -4392,6 +4836,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_bowl": {
     "criteria": {
       "has_terracotta": "2024-05-25 00:13:01 -0500"
@@ -4500,6 +4950,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/ochrum_castel_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2024-05-24 23:55:39 -0500"
@@ -4596,6 +5052,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/misc/mortar/blue_dye": {
+    "criteria": {
+      "Recipes": "2024-05-28 00:02:01 -0500"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/diorite_castel_tiles_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-05-22 23:28:05 -0500"
@@ -4623,6 +5085,12 @@
   "create:recipes/create.palettes/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-05-25 00:25:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
     },
     "done": true
   },
@@ -4658,6 +5126,7 @@
       "minecraft:creeper": "2024-05-25 00:29:47 -0500",
       "minecraft:cave_spider": "2024-05-22 23:45:47 -0500",
       "quark:wraith": "2024-05-22 23:44:44 -0500",
+      "minecraft:enderman": "2024-05-27 23:16:26 -0500",
       "minecraft:zombie": "2024-05-25 00:06:14 -0500"
     },
     "done": false
@@ -4746,9 +5215,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/cinnamon_molded_green_wallpaper": {
     "criteria": {
       "green_cinnamon_wallpaper": "2024-05-22 23:37:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -4800,6 +5281,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/mortar_granite": {
+    "criteria": {
+      "Recipes": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/pink_painted_planks": {
     "criteria": {
       "has_planks": "2024-05-22 23:25:59 -0500"
@@ -4815,6 +5302,12 @@
   "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-05-25 01:15:04 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-05-27 23:15:48 -0500"
     },
     "done": true
   },
@@ -4887,6 +5380,12 @@
   "design_decor:recipes/design_decor/dripstone_castel_tile_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-05-24 23:58:48 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_gold_block": "2024-05-28 00:20:40 -0500"
     },
     "done": true
   },
@@ -5185,6 +5684,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-05-25 00:11:13 -0500"
@@ -5455,6 +5960,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/apple_crisp_feast": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-27 23:15:48 -0500"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/gold_to_diamond_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2024-05-25 04:20:54 -0500"
@@ -5481,6 +5992,7 @@
       "minecraft:sparse_jungle": "2024-05-25 01:34:44 -0500",
       "minecraft:river": "2024-05-24 23:47:21 -0500",
       "minecraft:stony_shore": "2024-05-25 00:03:49 -0500",
+      "minecraft:dripstone_caves": "2024-05-27 23:59:16 -0500",
       "minecraft:forest": "2024-05-22 23:14:11 -0500",
       "minecraft:desert": "2024-05-25 01:53:14 -0500",
       "minecraft:jungle": "2024-05-25 01:52:13 -0500",
@@ -5493,6 +6005,12 @@
   "handcrafted:recipes/misc/white_glazed_thick_pot": {
     "criteria": {
       "has_terracotta": "2024-05-25 00:13:01 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
     },
     "done": true
   },
@@ -5580,6 +6098,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blue_cup": {
     "criteria": {
       "has_terracotta": "2024-05-25 00:13:01 -0500"
@@ -5622,9 +6146,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/spruce_molded_light_gray_wallpaper": {
     "criteria": {
       "light_gray_spruce_wallpaper": "2024-05-22 23:37:37 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -5643,6 +6179,12 @@
   "regions_unexplored:recipes/ru_main/lime_painted_planks": {
     "criteria": {
       "has_planks": "2024-05-22 23:25:59 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -5703,6 +6245,12 @@
   "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-05-25 01:15:03 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
     },
     "done": true
   },
@@ -5883,6 +6431,12 @@
   "createbigcannons:recipes/createbigcannons/proximity_fuze": {
     "criteria": {
       "has_iron_bars": "2024-05-24 23:52:40 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/apple_cookie": {
+    "criteria": {
+      "has_any_ingredient": "2024-05-27 23:15:48 -0500"
     },
     "done": true
   },
@@ -6108,6 +6662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-05-25 00:33:09 -0500",
@@ -6323,6 +6883,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-25 03:54:48 -0500"
@@ -6332,6 +6898,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-05-25 00:59:14 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -6449,6 +7021,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-05-22 23:35:35 -0500"
@@ -6500,6 +7078,12 @@
   "garnished:ritualistic_stone": {
     "criteria": {
       "obtain_ritualistic_stone": "2024-05-25 00:07:29 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/pestle_granite": {
+    "criteria": {
+      "Recipes": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -6569,6 +7153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/cinnamon_molded_red_wallpaper": {
     "criteria": {
       "red_cinnamon_wallpaper": "2024-05-22 23:37:37 -0500"
@@ -6584,6 +7174,12 @@
   "design_decor:recipes/design_decor/tuff_castel_tile_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-05-25 01:15:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
     },
     "done": true
   },
@@ -6626,6 +7222,12 @@
   "create:recipes/create.palettes/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-05-25 00:25:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -6713,9 +7315,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-05-28 00:07:13 -0500"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/tuff_castel_tile_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-05-25 01:15:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -6734,6 +7348,12 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2024-05-24 23:46:33 -0500"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-05-27 22:41:35 -0500"
     },
     "done": true
   },
@@ -6899,6 +7519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_trophy": "2024-05-25 02:32:24 -0500"
@@ -6985,6 +7611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-05-27 23:03:44 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-05-24 23:49:48 -0500"
@@ -7045,6 +7677,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-05-22 23:35:04 -0500"
@@ -7099,6 +7737,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/granite_castel_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/dripstone_castel_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-05-24 23:58:48 -0500"
@@ -7144,6 +7788,12 @@
   "decoration_delight:decoration_101_advancement": {
     "criteria": {
       "decoration_101_advancement": "2024-05-22 23:13:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/smoked_bat_wing_campfire": {
+    "criteria": {
+      "has_bat_wing": "2024-05-28 00:03:42 -0500"
     },
     "done": true
   },
@@ -7234,6 +7884,12 @@
   "extradelight:recipes/extradelight.aesthetic/acacia_molded_lime_wallpaper": {
     "criteria": {
       "lime_acacia_wallpaper": "2024-05-22 23:37:37 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
     },
     "done": true
   },
@@ -7345,6 +8001,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/ochrum_castel_tile_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/torch_from_chandelier": {
     "criteria": {
       "has_torch": "2024-05-22 23:33:46 -0500"
@@ -7387,6 +8049,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/granite_castel_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/dripstone_castel_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-05-24 23:58:48 -0500"
@@ -7417,6 +8085,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-05-25 01:30:15 -0500"
@@ -7426,6 +8100,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-25 02:32:24 -0500"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/granite_castel_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-05-27 23:13:42 -0500"
     },
     "done": true
   },
@@ -7537,6 +8217,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/ochrum_castel_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-05-28 00:02:18 -0500"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/rack_lamb_block_item": {
     "criteria": {
       "has_any_ingredient": "2024-05-26 23:19:46 -0500"
@@ -7558,6 +8244,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-05-26 23:24:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-05-28 00:07:13 -0500"
     },
     "done": true
   },
