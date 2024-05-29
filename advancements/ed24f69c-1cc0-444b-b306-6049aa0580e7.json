@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_seat": {
+    "criteria": {
+      "has_plank": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-05-22 23:27:06 -0500"
@@ -407,9 +413,39 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/crimson_limited_barrel_4": {
+    "criteria": {
+      "has_crimson_plank": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/crimson_limited_barrel_3": {
+    "criteria": {
+      "has_crimson_plank": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/crimson_limited_barrel_2": {
+    "criteria": {
+      "has_crimson_plank": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2024-05-25 02:48:52 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/crimson_limited_barrel_1": {
+    "criteria": {
+      "has_crimson_plank": "2024-05-28 23:35:48 -0500"
     },
     "done": true
   },
@@ -719,6 +755,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/crimson_chest": {
+    "criteria": {
+      "has_crimson_plank": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
   "copycats:recipes/copycats.main/stonecutting/copycat_wall": {
     "criteria": {
       "has_item": "2024-05-25 17:34:37 -0500"
@@ -815,9 +857,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-05-23 14:18:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-05-28 23:35:48 -0500"
     },
     "done": true
   },
@@ -890,6 +944,12 @@
   "extradelight:recipes/extradelight.items/christmas_pudding_feast": {
     "criteria": {
       "has_any_ingredient": "2024-05-24 23:54:35 -0500"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2024-05-28 23:48:42 -0500"
     },
     "done": true
   },
@@ -1345,6 +1405,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-05-28 23:33:33 -0500",
       "minecraft:nether_wastes": "2024-05-25 18:45:57 -0500",
       "minecraft:soul_sand_valley": "2024-05-25 19:03:33 -0500"
     },
@@ -2178,6 +2239,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2024-05-29 00:11:28 -0500"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/granite_castel_tile_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-05-25 00:27:06 -0500"
@@ -2436,6 +2503,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2024-05-29 00:05:35 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_palisade": {
+    "criteria": {
+      "has_log": "2024-05-28 23:33:33 -0500"
+    },
+    "done": true
+  },
   "copycats:recipes/copycats.main/stonecutting/copycat_beam": {
     "criteria": {
       "has_item": "2024-05-25 17:34:37 -0500"
@@ -2565,6 +2644,12 @@
   "create_connected:recipes/crafting/kinetics/centrifugal_clutch": {
     "criteria": {
       "has_item": "2024-05-26 20:27:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-05-28 23:33:33 -0500"
     },
     "done": true
   },
@@ -3042,6 +3127,13 @@
     },
     "done": true
   },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2024-05-28 23:21:37 -0500",
+      "blackstone_basin": "2024-05-28 23:30:43 -0500"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/ru_main/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2024-05-22 23:26:03 -0500"
@@ -3352,6 +3444,12 @@
   "minecraft:husbandry/wax_off": {
     "criteria": {
       "wax_off": "2024-05-23 00:00:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-05-28 23:35:48 -0500"
     },
     "done": true
   },
@@ -3673,6 +3771,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2024-05-28 23:50:09 -0500"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/maraca": {
     "criteria": {
       "maraca": "2024-05-25 01:54:44 -0500"
@@ -3817,6 +3921,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-05-22 23:26:07 -0500"
@@ -3936,6 +4046,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-05-25 13:06:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-05-28 23:35:48 -0500"
     },
     "done": true
   },
@@ -4137,6 +4253,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2024-05-28 23:48:42 -0500"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/crabbersdelight/crab_trap": {
     "criteria": {
       "has_stick": "2024-05-22 23:26:07 -0500",
@@ -4237,6 +4359,12 @@
   "interiors:recipes/building_blocks/crafting/chair/cyan_chair": {
     "criteria": {
       "has_seat": "2024-05-22 23:37:01 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2024-05-28 23:50:09 -0500"
     },
     "done": true
   },
@@ -4792,6 +4920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-05-29 00:08:01 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-05-24 23:36:46 -0500"
@@ -4879,6 +5013,12 @@
   "extradelight:recipes/extradelight.aesthetic/crimson_molded_orange_wallpaper": {
     "criteria": {
       "orange_crimson_wallpaper": "2024-05-23 00:34:49 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2024-05-28 23:50:09 -0500"
     },
     "done": true
   },
@@ -5164,6 +5304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2024-05-23 00:12:21 -0500"
@@ -5281,6 +5427,12 @@
   "minecraft:recipes/miners_delight/baked_tentacles_smoking": {
     "criteria": {
       "has_tentacles": "2024-05-25 14:11:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-05-28 23:35:48 -0500"
     },
     "done": true
   },
@@ -5882,6 +6034,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/yellow_bioshroom_planks": {
+    "criteria": {
+      "has_logs": "2024-05-28 23:21:39 -0500"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/large_shaftless_cogwheel": {
     "criteria": {
       "has_item": "2024-05-25 02:48:52 -0500"
@@ -6041,6 +6199,12 @@
   "create:recipes/create.palettes/scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-05-25 19:23:12 -0500"
+    },
+    "done": true
+  },
+  "extradelight:recipes/misc/mortar/green_dye": {
+    "criteria": {
+      "Recipes": "2024-05-29 00:08:01 -0500"
     },
     "done": true
   },
@@ -7863,6 +8027,12 @@
     },
     "done": true
   },
+  "regions_unexplored:ancient_specimens": {
+    "criteria": {
+      "yellow_bioshroom_stem": "2024-05-28 23:21:39 -0500"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-05-25 13:30:34 -0500"
@@ -7913,11 +8083,13 @@
       "willow_forest": "2024-05-25 02:07:58 -0500",
       "grassy_beach": "2024-05-25 02:08:33 -0500",
       "rocky_meadow": "2024-05-24 23:55:55 -0500",
+      "mycotoxic_undergrowth": "2024-05-28 23:21:37 -0500",
       "eucalyptus_forest": "2024-05-25 01:21:15 -0500",
       "magnolia_highlands": "2024-05-24 23:55:51 -0500",
       "joshua_desert": "2024-05-25 00:01:51 -0500",
       "sparse_redwoods": "2024-05-25 02:03:08 -0500",
       "deciduous_forest": "2024-05-25 02:00:18 -0500",
+      "blackstone_basin": "2024-05-28 23:30:43 -0500",
       "chalk_cliffs": "2024-05-25 00:02:50 -0500",
       "saguaro_desert": "2024-05-25 01:20:34 -0500",
       "grassland": "2024-05-25 02:24:23 -0500",
@@ -8736,6 +8908,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_support": {
+    "criteria": {
+      "has_plank": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/chair/orange_chair_from_seat": {
     "criteria": {
       "has_seat": "2024-05-22 23:37:01 -0500"
@@ -9145,6 +9323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-05-28 23:33:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-05-25 00:03:53 -0500"
@@ -9292,6 +9476,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-05-23 00:13:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-05-28 23:35:48 -0500"
     },
     "done": true
   },
@@ -9988,6 +10178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-05-25 13:06:00 -0500"
@@ -10261,6 +10457,12 @@
   "interiors:recipes/building_blocks/crafting/chair/brown_chair": {
     "criteria": {
       "has_seat": "2024-05-22 23:37:01 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/diamond_barrel": {
+    "criteria": {
+      "has_gold_barrel": "2024-05-28 22:21:10 -0500"
     },
     "done": true
   },
@@ -11163,6 +11365,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/yellow_bioshroom_hyphae": {
+    "criteria": {
+      "has_log": "2024-05-28 23:21:39 -0500"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-05-25 13:30:34 -0500"
@@ -11313,6 +11521,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/crimson_barrel": {
+    "criteria": {
+      "has_crimson_plank": "2024-05-28 23:35:48 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-05-22 23:44:55 -0500"
@@ -11401,6 +11615,7 @@
     "criteria": {
       "joshua_log": "2024-05-25 00:04:32 -0500",
       "magnolia_log": "2024-05-25 02:55:44 -0500",
+      "yellow_bioshroom_stem": "2024-05-28 23:21:39 -0500",
       "eucalyptus_log": "2024-05-25 02:42:41 -0500"
     },
     "done": false
@@ -11913,6 +12128,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2024-05-23 00:12:21 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2024-05-28 23:50:09 -0500"
     },
     "done": true
   },
