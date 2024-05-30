@@ -3,10 +3,13 @@
   "difficulty": "NORMAL",
   "cheats": false,
   "invited": [
+    "fe723a0b-ff4b-4c1f-bf01-dabf461cb2c1",
     "ed24f69c-1cc0-444b-b306-6049aa0580e7"
   ],
   "shareResourcePack": false,
   "oppedPlayers": [
-    "7037a4af-54de-4d88-822f-0708b359853e"
+    "7037a4af-54de-4d88-822f-0708b359853e",
+    "ed24f69c-1cc0-444b-b306-6049aa0580e7",
+    "fe723a0b-ff4b-4c1f-bf01-dabf461cb2c1"
   ]
 }

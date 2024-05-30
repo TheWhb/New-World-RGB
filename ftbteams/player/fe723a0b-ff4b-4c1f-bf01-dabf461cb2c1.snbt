@@ -2,9 +2,7 @@
 	id: "fe723a0b-ff4b-4c1f-bf01-dabf461cb2c1"
 	type: "player"
 	player_name: "SmashDuck20XX"
-	ranks: {
-		fe723a0b-ff4b-4c1f-bf01-dabf461cb2c1: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "SmashDuck20XX"
 		"ftbteams:description": ""

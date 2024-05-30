@@ -5,6 +5,7 @@
 	ranks: {
 		ed24f69c-1cc0-444b-b306-6049aa0580e7: "owner"
 		7037a4af-54de-4d88-822f-0708b359853e: "member"
+		fe723a0b-ff4b-4c1f-bf01-dabf461cb2c1: "member"
 	}
 	properties: {
 		"ftbteams:display_name": "RGB"
@@ -17,6 +18,10 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1716612048171L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TheRikei\"}]}" }
 		{ from: "ed24f69c-1cc0-444b-b306-6049aa0580e7", date: 1716612048174L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"LeoxDa\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1716612050722L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"LeoxDa\"}]}" }
+		{ from: "ed24f69c-1cc0-444b-b306-6049aa0580e7", date: 1717041443434L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"SmashDuck20XX\"}]}" }
+		{ from: "ed24f69c-1cc0-444b-b306-6049aa0580e7", date: 1717041467047L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"SmashDuck20XX\"}]}" }
+		{ from: "ed24f69c-1cc0-444b-b306-6049aa0580e7", date: 1717041469843L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"SmashDuck20XX\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1717041473265L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"SmashDuck20XX\"}]}" }
 	]
 	extra: { }
 }
